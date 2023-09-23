@@ -7,7 +7,7 @@ Citizen science has gained prominence in recent years, offering new opportunitie
 The figures below show the workflow of this project.
 
 ![Picture1](https://github.com/Morteza-Amouei/BGP_2022/assets/113603764/61e54b2e-b496-46df-8870-51e2d71aa8e7)
-                                          Figure1: The workflow for modelling spatio-temporal observer intensity
+                                  Figure1: The workflow for modelling spatio-temporal observer intensity
 
 For more information, reach the report of file of this project through the following link:
 https://drive.google.com/drive/folders/1Xf0G0TECzrGM2litfI8qeL-9y4-sH_th?usp=sharing
